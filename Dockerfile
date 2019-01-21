@@ -1,6 +1,6 @@
 FROM cypress/base:10
 
-ENV NODE_ENV=production \
+ENV NODE_ENV=development \
     APP_DIR=/usr/src/app
 
 WORKDIR $APP_DIR/
