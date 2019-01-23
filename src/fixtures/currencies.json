@@ -31,6 +31,14 @@
     "gateway": "dashd",
     "blockchainKeyPrefix": "dash"
   },
+  "CAZCOIN": {
+    "client": "cazcoin",
+    "explorerAddress": "",
+    "explorerTransaction": "",
+    "baseFactor": "100000000",
+    "gateway": "cazcoind",
+    "blockchainKeyPrefix": "cazcoin"
+  },
   "ETH": {
     "client": "ethereum",
     "explorerAddress": "/address/#{address}",
