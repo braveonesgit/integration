@@ -29,7 +29,7 @@
 //         method: 'POST',
 //         url: 'http://auth.wb1.helioscloud.com/api/v1/sign_in',
 //         body: {
-//             login: 'admin@barong.io',
+//             login: 'sam@cazexchange.com',
 //             password: 'Qwerty123',
 //         }
 //     })
